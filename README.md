@@ -15,6 +15,7 @@ I want to learn more about my profession and am willing to try new technology. I
    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> -->
   
   
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Java_png.png" alt="react" width="auto" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg" alt="react" width="auto" height="40"/>
   
   
