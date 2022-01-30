@@ -44,7 +44,7 @@ Worked on Java, JSF Framework and Primefaces. Created Registration Process
 2. Notepad++ Text Manipulation
 3. Writing effective documentation(issues)
 4. Data fetching by using hard queries(joins)
-5. Use of Jira | Agile Project Management Software
+5. Use of Jira(Agile Project Management Software)
 6. Excel Expert using conditional formating other tools
 7. I worked on Server Logs by using MobaXterm(Linux Command)
 8. Identified Production and non-production issues and fixed them.
@@ -54,15 +54,15 @@ Worked on Java, JSF Framework and Primefaces. Created Registration Process
 
 A Human Resource Management Solution developed in Microservices Architecture. Worked with java standard, Spring, Spring boot, Spring security as backend to build website using React Javascript library as frontend.
 1. Frontend React JavaScript library
-2. Java | Spring | Spring Boot
+2. Java, Spring and Spring Boot
 3. MYSQL Database
 
 ### **Android Developer(Internship) (Jul-2019 - Sep-2019)**
 ### Satsuma Droid PVT, LTD
 
 1. Fazail-E-Amaal Islamic Book Apps
-2. XML | Core Jave | SQLite Database
-3. Android Studio | Development
+2. XML, Core Java and SQLite Database
+3. Android Studio and Development
 
 ---
 
