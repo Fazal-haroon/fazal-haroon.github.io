@@ -1,6 +1,6 @@
 ## Portfolio
 
-I want to learn more about my profession and am willing to try new technology. I also want to expand my experience and develop my skills. so I'm willing to put in the effort.
+Seeking a challenging position with a strong emphasis on Web technologies and high growth opportunities. I want to learn more about my profession and am willing to try new technology. I am willing to put in the effort.
 
 ---
 
@@ -34,9 +34,9 @@ I want to learn more about my profession and am willing to try new technology. I
 
 ### **Software Developer (27-Jan-2022 - Present)**
 ### siParadigm Diagnostic Informatics PVT, LTD
-
-Worked on Java, JSF Framework and Primefaces. Created Registration Process
-
+1. Worked on Java and J2EE.
+2. JSF Framework and Primefaces. Created Registration Process
+3. Hands on experience on Tomcat and WildFly JBoss Servers
 
 ### **Support Engineer | DevOps(Internship) (27-Oct-2021 - 27-Jan-2022)**
 ### siParadigm Diagnostic Informatics PVT, LTD
