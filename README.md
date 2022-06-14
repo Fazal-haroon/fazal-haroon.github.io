@@ -70,7 +70,7 @@ A Human Resource Management Solution developed in Microservices Architecture. Wo
 
 ### **University of Engineering and Technology, Peshawar Pakistan**
 ### BS Computer Science (Sep-2017 - Oct-2021)
-CGPA 3.32/4.0
+CGPA 3.35/4.0
 
 ---
 
