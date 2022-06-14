@@ -41,15 +41,16 @@ Seeking a challenging position with a strong emphasis on Web technologies and hi
 ### **Support Engineer | DevOps(Internship) (27-Oct-2021 - 27-Jan-2022)**
 ### siParadigm Diagnostic Informatics PVT, LTD
 1. Gave Support the clients
-2. Notepad++ Text Manipulation
-3. Writing effective documentation(issues)
-4. Data fetching by using hard queries(joins)
-5. Use of Jira(Agile Project Management Software)
-6. Excel Expert using conditional formating other tools
-7. I worked on Server Logs by using MobaXterm(Linux Command)
-8. Identified Production and non-production issues and fixed them.
+2. Docker - DockerHub
+3. Notepad++ Text Manipulation
+4. Writing effective documentation(issues)
+5. Data fetching by using hard queries(joins)
+6. Use of Jira(Agile Project Management Software)
+7. Excel Expert using conditional formating other tools
+8. I worked on Server Logs by using MobaXterm(Linux Command)
+9. Identified Production and non-production issues and fixed them.
 
-### **BSCS | Final Year Project | HRMS (30-Sep-2021)**
+### **BSCS | Final Year Project | HRMS (20-Sep=2020 - 30-Sep-2021)**
 ### University of Engineering and Technology, Peshawar
 
 A Human Resource Management Solution developed in Microservices Architecture. Worked with java standard, Spring, Spring boot, Spring security as backend to build website using React Javascript library as frontend.
