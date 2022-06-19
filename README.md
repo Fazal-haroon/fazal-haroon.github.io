@@ -1,6 +1,6 @@
 ## Portfolio
 
-Seeking a challenging position with a strong emphasis on Web technologies and high growth opportunities. I want to learn more about my profession and am willing to try new technology. I am willing to put in the effort.
+I am interested in IT and everything in its orbit with 1+ years of field experience with all stages of advanced web development. Expertise in the development, installation, testing, and maintenance of web applications is my passion which helped me equip my knowledge base with a diverse and promising skill-set for self-management during collaboration in team settings.
 
 ---
 
@@ -35,28 +35,30 @@ Seeking a challenging position with a strong emphasis on Web technologies and hi
 ### **Software Developer (27-Jan-2022 - Present)**
 ### siParadigm Diagnostic Informatics PVT, LTD
 1. Worked on Java and J2EE.
-2. JSF Framework and Primefaces. Created Registration Process
-3. Hands on experience on Tomcat and WildFly JBoss Servers
+2. Hands-on experience on Tomcat and WildFly JBoss Servers.
+3. JSF Framework and Primefaces. Created Registration Process.
+4. Knowledge of creating restful Web Services.
+5. 1+ years of experience in Web development using Core- Java, JavaEE, Spring Framework, JSP, JSF, Servlet, Spring, Spring-MVC, Spring Security, JDBC, Hibernate, Microservices, Spring Boot, and Spring JPA Jasper Reports(placeholder).
+6. Has a strong ability to learn new technologies in a short span and implement them independently.
 
 ### **Support Engineer | DevOps(Internship) (27-Oct-2021 - 27-Jan-2022)**
 ### siParadigm Diagnostic Informatics PVT, LTD
-1. Gave Support the clients
-2. Docker - DockerHub
-3. Notepad++ Text Manipulation
-4. Writing effective documentation(issues)
-5. Data fetching by using hard queries(joins)
-6. Use of Jira(Agile Project Management Software)
-7. Excel Expert using conditional formating other tools
-8. I worked on Server Logs by using MobaXterm(Linux Command)
-9. Identified Production and non-production issues and fixed them.
+1. Microsoft Office Tools.
+2. Effective documentation of issues and bugs.
+3. Hands-on practice with Jira/Agile, Docker and DockerHub.
+4. Identified and fixed Production and Testing environment issues.
+5. Data fetching from different databases on client/customer requests.
+6. Server monitoring and deployment using MobaXterm (Linux Command) and Linux fundamental.
+7. Responding in a timely manner to service issues and requests while working on IT Support Position.
 
 ### **BSCS | Final Year Project | HRMS (20-Sep=2020 - 30-Sep-2021)**
 ### University of Engineering and Technology, Peshawar
 
-A Human Resource Management Solution developed in Microservices Architecture. Worked with java standard, Spring, Spring boot, Spring security as backend to build website using React Javascript library as frontend.
-1. Frontend React JavaScript library
-2. Java, Spring and Spring Boot
-3. MYSQL Database
+A Human Resource Management Solution developed in Microservices Architecture. 
+1. Worked with Java standard, Spring, Spring Boot, and Spring security as the backend to build a website using React Javascript library as the frontend.
+2. Frontend React JavaScript library
+3. Java, Spring and Spring Boot
+4. MYSQL Database
 
 ### **Android Developer(Internship) (Jul-2019 - Sep-2019)**
 ### Satsuma Droid PVT, LTD
