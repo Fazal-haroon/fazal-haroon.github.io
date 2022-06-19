@@ -54,11 +54,11 @@ I am interested in IT and everything in its orbit with 1+ years of field experie
 ### **BSCS | Final Year Project | HRMS (20-Sep=2020 - 30-Sep-2021)**
 ### University of Engineering and Technology, Peshawar
 
-A Human Resource Management Solution developed in Microservices Architecture. 
-1. Worked with Java standard, Spring, Spring Boot, and Spring security as the backend to build a website using React Javascript library as the frontend.
-2. Frontend React JavaScript library
-3. Java, Spring and Spring Boot
-4. MYSQL Database
+1. A Human Resource Management Solution developed in Microservices Architecture. 
+2. Worked with Java standard, Spring, Spring Boot, and Spring security as the backend to build a website using React Javascript library as the frontend.
+3. Frontend React JavaScript library
+4. Java, Spring and Spring Boot
+5. MYSQL Database
 
 ### **Android Developer(Internship) (Jul-2019 - Sep-2019)**
 ### Satsuma Droid PVT, LTD
