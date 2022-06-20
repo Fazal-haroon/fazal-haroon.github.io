@@ -39,10 +39,10 @@ Pine Brook, New Jersey, USA
 2. Hands-on experience on Tomcat and WildFly JBoss Servers.
 3. JSF Framework and Primefaces. Created Registration Process.
 4. Knowledge of creating restful Web Services.
-5. 1+ years of experience in Web development using Core- Java, JavaEE, Spring Framework, JSP, JSF, Servlet, Spring, Spring-MVC, Spring Security, JDBC, Hibernate, Microservices, Spring Boot, and Spring JPA Jasper Reports(placeholder).
+5. 1+ years of experience in Web development using Core- Java, JavaEE, Spring Framework, JSP, JSF, Servlet, Spring, Spring-MVC, Spring Security, JDBC, Hibernate, Microservices, Spring Boot, and Spring JPA Jasper Reports.
 6. Has a strong ability to learn new technologies in a short span and implement them independently.
 
-### **Support Engineer | DevOps(Internship) (27-Oct-2021 - 27-Jan-2022)**
+### **Support Engineer | DevOps (Internship) (27-Oct-2021 - 27-Jan-2022)**
 ### siParadigm Diagnostic Informatics PVT, LTD 
 Pine Brook, New Jersey, USA
 1. Microsoft Office Tools.
