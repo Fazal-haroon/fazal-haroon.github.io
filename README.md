@@ -33,7 +33,7 @@ I am interested in IT and everything in its orbit with 1+ years of field experie
 ## Experience
 
 ### **Software Developer (27-Jan-2022 - Present)**
-### siParadigm Diagnostic Informatics PVT, LTD
+### siParadigm Diagnostic Informatics PVT, LTD (Pine Brook, New Jersey, USA)
 1. Worked on Java and J2EE.
 2. Hands-on experience on Tomcat and WildFly JBoss Servers.
 3. JSF Framework and Primefaces. Created Registration Process.
@@ -42,7 +42,7 @@ I am interested in IT and everything in its orbit with 1+ years of field experie
 6. Has a strong ability to learn new technologies in a short span and implement them independently.
 
 ### **Support Engineer | DevOps(Internship) (27-Oct-2021 - 27-Jan-2022)**
-### siParadigm Diagnostic Informatics PVT, LTD
+### siParadigm Diagnostic Informatics PVT, LTD (Pine Brook, New Jersey, USA)
 1. Microsoft Office Tools.
 2. Effective documentation of issues and bugs.
 3. Hands-on practice with Jira/Agile, Docker and DockerHub.
