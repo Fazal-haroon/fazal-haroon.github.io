@@ -1,6 +1,6 @@
 ## Portfolio
 
-I am interested in IT and everything in its orbit with 1+ years of field experience with all stages of advanced web development. Expertise in the development, installation, testing, and maintenance of web applications is my passion which helped me equip my knowledge base with a diverse and promising skill-set for self-management during collaboration in team settings.
+I am interested in IT and everything in its orbit with 2+ years of field experience with all stages of advanced web development. Expertise in the development, installation, testing, and maintenance of web applications is my passion which helped me equip my knowledge base with a diverse and promising skill-set for self-management during collaboration in team settings.
 
 ---
 
@@ -76,6 +76,16 @@ Gulistan Colony Rawalpindi Pakistan
 ### **University of Engineering and Technology, Peshawar Pakistan**
 ### BS Computer Science (Sep-2017 - Oct-2021)
 CGPA 3.35/4.0
+
+1. Frontend Developer, Database and Java Developer to develop 'Human Resource Management System'
+
+2. Language: Java
+
+3. Platform: Spring, Spring Boot and Spring Security as a Backend
+
+4. Frameworks: React Js as a frontend and MySQL
+
+5. Description: Employee management system has multiple modules and it was a role-based application. Modules were HR Module, Employee Module, Finance Module, Leave Management System module and news feed module.
 
 ---
 
