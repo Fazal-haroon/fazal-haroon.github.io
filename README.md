@@ -51,7 +51,7 @@ Pine Brook, New Jersey, USA
 4. Identified and fixed Production and Testing environment issues.
 5. Data fetching from different databases on client/customer requests.
 6. Server monitoring and deployment using MobaXterm (Linux Command) and Linux fundamental.
-7. Responding in a timely manner to service issues and requests while working on IT Support Position.
+7. Responding in a timely manner to service issues and requests while working in IT Support Position.
 
 ### **BSCS | Final Year Project | HRMS (20-Sep=2020 - 30-Sep-2021)**
 ### University of Engineering and Technology, Peshawar
