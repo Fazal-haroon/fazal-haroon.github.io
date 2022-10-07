@@ -32,42 +32,81 @@ I am interested in IT and everything in its orbit with 2+ years of field experie
 
 ## Experience
 
-### **Software Developer (27-Jan-2022 - Present)**
+### **Java Developer (July-2022 - Present)**
+### Million Soft Technology
+Dubai, United Arab Emirates
+<br>
+Worked on Chat Application as Backend Java Developer.
+
+• Chat Application Project developed in Microservices Architecture.
+
+• Worked on Java 1.8, Spring Boot, Lombok, MyBatis, MongoDB, Redis, Swagger, @ Custom Annotation, Handler interceptor, and Filter.
+
+• Worked on group chat application, merge nine member profile image one images, the first 9 members of the group/room. 
+
+• Logging Request and Response Body In Spring Boot and store it in the database. Whenever we need logging feature, we just add the custom annotation on the end-point and we store the data of logging in database.
+
+• Using ZenTao Project Management System.
+
+
+### **Software Developer (Jan-2022 - Oct-2022)**
 ### siParadigm Diagnostic Informatics PVT, LTD 
 Pine Brook, New Jersey, USA
-1. Worked on Java and J2EE.
-2. Hands-on experience on Tomcat and WildFly JBoss Servers.
-3. JSF Framework and Primefaces. Created Registration Process.
-4. Knowledge of creating restful Web Services.
-5. 1+ years of experience in Web development using Core- Java, JavaEE, Spring Framework, JSP, JSF, Servlet, Spring, Spring-MVC, Spring Security, JDBC, Hibernate, Microservices, Spring Boot, and Spring JPA Jasper Reports.
-6. Has a strong ability to learn new technologies in a short span and implement them independently.
+<br>
+Worked on Healthcare Software as a Backend Java Developer. 
 
-### **Support Engineer | DevOps (Internship) (27-Oct-2021 - 27-Jan-2022)**
+• Worked on Java and J2EE.
+
+• Hands-on experience on Tomcat and WildFly JBoss Servers.
+
+• JSF Framework and Primefaces. Created Registration Process.
+
+• Knowledge of creating restful Web Services.
+
+• 1+ years of experience in Web development using Core- Java, JavaEE, Spring Framework, JSP, JSF, Servlet, Spring, Spring-MVC, Spring Security, JDBC, Hibernate, Microservices, Spring Boot, and Spring JPA Jasper Reports.
+
+• Has a strong ability to learn new technologies in a short span and implement them independently.
+
+### **Support Engineer | DevOps (Oct-2021 - Jan-2022)**
 ### siParadigm Diagnostic Informatics PVT, LTD 
 Pine Brook, New Jersey, USA
-1. Microsoft Office Tools.
-2. Effective documentation of issues and bugs.
-3. Hands-on practice with Jira/Agile, Docker and DockerHub.
-4. Identified and fixed Production and Testing environment issues.
-5. Data fetching from different databases on client/customer requests.
-6. Server monitoring and deployment using MobaXterm (Linux Command) and Linux fundamental.
-7. Responding in a timely manner to service issues and requests while working in IT Support Position.
+<br>
+Worked on Healthcare Software as a Support Engineer/DevOps.
 
-### **BSCS | Final Year Project | HRMS (20-Sep=2020 - 30-Sep-2021)**
+• Microsoft Office Tools.
+
+• Effective documentation of issues and bugs.
+
+• Hands-on practice with Jira/Agile, Docker, and DockerHub.
+
+• Identified and fixed Production and Testing environment issues.
+
+• Data fetching from different databases on client/customer requests.
+
+• Server monitoring and deployment using MobaXterm (Linux Command) and Linux fundamental.
+
+• Responding in a timely manner to service issues and requests while working on IT Support Position.
+
+### **Graduation Project (Sep-2020 - Sep-2021)**
 ### University of Engineering and Technology, Peshawar
+Worked on HRMS as Full Stack.
 
-1. A Human Resource Management Solution developed in Microservices Architecture. 
-2. Worked with Java standard, Spring, Spring Boot, and Spring security as the backend to build a website using React Javascript library as the frontend.
-3. Frontend React JavaScript library
-4. Java, Spring and Spring Boot
-5. MYSQL Database
+• A Human Resource Management Solution developed in Microservices Architecture.
 
-### **Android Developer(Internship) (Jul-2019 - Sep-2019)**
+• Worked with Java and Spring Boot as the backend to build a website using React Javascript library as the frontend.
+
+• Technologies : Frontend React JavaScript library, Java, Spring, Spring Boot, Spring Security, Spring Cloud Gateway, Spring Netflix Eureka, Netflix Hystrix, Spring JPA, and MySQL Database.
+
+### **Android Developer (Jul-2019 - Sep-2019)**
 ### Satsuma Droid PVT, LTD
 Gulistan Colony Rawalpindi Pakistan
-1. Fazail-E-Amaal Islamic Book Apps
-2. XML, Core Java and SQLite Database
-3. Android Studio and Development
+<br>
+Worked on Islamic Book Android App as Java Android Developer.
+
+• Fazail-E-Amaal Islamic Book Application.
+
+• Technologies : Java, Android Studio, Android developer tools, XML, and SQLite Database.
+
 
 ---
 
@@ -76,16 +115,12 @@ Gulistan Colony Rawalpindi Pakistan
 ### **University of Engineering and Technology, Peshawar Pakistan**
 ### BS Computer Science (Sep-2017 - Oct-2021)
 CGPA 3.35/4.0
+<br>
+Worked on HRMS as Full Stack.
 
-1. Frontend Developer, Database and Java Developer to develop 'Human Resource Management System'
+• Technologies : Frontend React JavaScript library, Java, Spring, Spring Boot, Spring Security, Spring Cloud API Gateway, Netflix Eureka, Netflix Hystrix, Spring JPA, and MySQL Database.
 
-2. Language: Java
-
-3. Platform: Spring, Spring Boot and Spring Security as a Backend
-
-4. Frameworks: React Js as a frontend and MySQL
-
-5. Description: Employee management system has multiple modules and it was a role-based application. Modules were HR Module, Employee Module, Finance Module, Leave Management System module and news feed module.
+• Description : Employee management system has multiple modules and it was a role-based application. Modules were HR Module, Employee Module, Finance Module, Leave Management System module and news feed module.
 
 ---
 
