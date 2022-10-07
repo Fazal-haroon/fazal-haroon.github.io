@@ -22,7 +22,13 @@ I am interested in IT and everything in its orbit with 2+ years of field experie
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="react" width="auto" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg" alt="react" width="auto" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/AnantP%40java.png" alt="react" width="auto" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Duke_%28Java_mascot%29_waving.svg" alt="react" width="auto" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Database-mysql.svg" alt="react" width="auto" height="40"/>
+  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg" alt="spring" width="auto" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" alt="react" width="auto" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" alt="react" width="auto" height="40"/>
+  
   
   
   
