@@ -1,6 +1,6 @@
 ## Portfolio
 
-I am interested in IT and everything in its orbit with 2+ years of field experience with all stages of advanced web development. Expertise in the development, installation, testing, and maintenance of web applications is my passion which helped me equip my knowledge base with a diverse and promising skill-set for self-management during collaboration in team settings.
+I am interested in IT and everything in its orbit with plus 2 years of field experience with all stages of advanced web development. Expertise in the development, installation, testing, and maintenance of web applications is my passion which helped me equip my knowledge base with a diverse and promising skill-set for self-management during collaboration in team settings.
 
 ---
 
@@ -55,7 +55,7 @@ Worked on Chat Application as Backend Java Developer.
 • Using ZenTao Project Management System.
 
 
-### **Software Developer (Jan-2022 - Oct-2022)**
+### **Software Developer (Oct-2021 - Oct-2022)**
 ### siParadigm Diagnostic Informatics PVT, LTD 
 Pine Brook, New Jersey, USA
 <br>
@@ -73,17 +73,15 @@ Worked on Healthcare Software as a Backend Java Developer.
 
 • Has a strong ability to learn new technologies in a short span and implement them independently.
 
-### **Support Engineer | DevOps (Oct-2021 - Jan-2022)**
+### **Support Engineer | DevOps (Jul-2020 - Oct-2021)**
 ### siParadigm Diagnostic Informatics PVT, LTD 
 Pine Brook, New Jersey, USA
 <br>
 Worked on Healthcare Software as a Support Engineer/DevOps.
 
-• Microsoft Office Tools.
-
 • Effective documentation of issues and bugs.
 
-• Hands-on practice with Jira/Agile, Docker, and DockerHub.
+• Hands-on practice with Jira/Agile, AWS, Ansible, Chef, Docker, Jenkins CI/CD, and Kubernetes.
 
 • Identified and fixed Production and Testing environment issues.
 
