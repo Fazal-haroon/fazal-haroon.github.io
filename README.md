@@ -91,6 +91,7 @@ Worked on Healthcare Software as a Support Engineer/DevOps.
 
 • Responding in a timely manner to service issues and requests while working on IT Support Position.
 
+<!--
 ### **Graduation Project (Sep-2020 - Sep-2021)**
 ### University of Engineering and Technology, Peshawar
 Worked on HRMS as Full Stack.
@@ -100,7 +101,7 @@ Worked on HRMS as Full Stack.
 • Worked with Java and Spring Boot as the backend to build a website using React Javascript library as the frontend.
 
 • Technologies : Frontend React JavaScript library, Java, Spring, Spring Boot, Spring Security, Spring Cloud Gateway, Spring Netflix Eureka, Netflix Hystrix, Spring JPA, and MySQL Database.
-
+-->
 ### **Android Developer (Jul-2019 - Sep-2019)**
 ### Satsuma Droid PVT, LTD
 Gulistan Colony Rawalpindi Pakistan
