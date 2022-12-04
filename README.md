@@ -56,7 +56,7 @@ Worked on Chat Application as Backend Java Developer.
 
 
 ### **Java Developer (Oct-2021 - Oct-2022)**
-### siParadigm Diagnostic Informatics PVT, LTD 
+### siParadigm Diagnostic Informatics
 Islamabad, Pakistan and Dubai, UAE
 <br>
 Worked on Healthcare Software as a Backend Java Developer. 
@@ -75,7 +75,7 @@ Worked on Healthcare Software as a Backend Java Developer.
 
 • Has a strong ability to learn new technologies in a short span and implement them independently.
 ### **Support Engineer | DevOps (Jul-2020 - Oct-2021)**
-### siParadigm Diagnostic Informatics PVT, LTD 
+### siParadigm Diagnostic Informatics
 Islamabad, Pakistan
 <br>
 Worked on Healthcare Software as a Support Engineer/DevOps.
@@ -93,7 +93,7 @@ Worked on Healthcare Software as a Support Engineer/DevOps.
 • Responding in a timely manner to service issues and requests while working on IT Support Position.
 
 ### **Junior Java Developer (Sep-2019 - Jul-2020)**
-### Satsuma Droid Pvt Ltd
+### Satsuma Droid
 Worked on HRMS as Full Stack.
 
 • Worked with Java and Spring Boot as the backend to build a website.
@@ -101,7 +101,7 @@ Worked on HRMS as Full Stack.
 • Technologies : Java, Spring, Spring Boot, Spring Security, Spring Cloud API Gateway, Netflix Eureka, Netflix Hystrix, Spring JPA, and MySQL Database.
 
 ### **Android Java Developer (Jul-2019 - Sep-2019)**
-### Satsuma Droid Pvt Ltd
+### Satsuma Droid
 Gulistan Colony Rawalpindi Pakistan
 <br>
 Worked on Islamic Book Android App as Java Android Developer.
