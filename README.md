@@ -1,6 +1,6 @@
 ## Portfolio
 
-I am interested in IT and everything in its orbit with plus 2 years of field experience with all stages of advanced web development. Expertise in the development, installation, testing, and maintenance of web applications is my passion which helped me equip my knowledge base with a diverse and promising skill-set for self-management during collaboration in team settings.
+I am interested in IT and everything in its orbit with plus 3 years of field experience with all stages of advanced web development. Expertise in the development, installation, testing, and maintenance of web applications is my passion which helped me equip my knowledge base with a diverse and promising skill-set for self-management during collaboration in team settings.
 
 ---
 
@@ -38,7 +38,7 @@ I am interested in IT and everything in its orbit with plus 2 years of field exp
 
 ## Experience
 
-### **Java Developer (July-2022 - Present)**
+### **Java Developer (July-2022 - Dec-2022)**
 ### Million Soft Technology
 Dubai, United Arab Emirates
 <br>
@@ -46,20 +46,22 @@ Worked on Chat Application as Backend Java Developer.
 
 • Chat Application Project developed in Microservices Architecture.
 
-• Worked on Java 1.8, Spring Boot, Lombok, MyBatis, MongoDB, Redis, Swagger, @ Custom Annotation, Handler interceptor, and Filter.
+• Worked on Java 1.8, Spring Boot, MyBatis, MongoDB, Redis, Swagger, @ Custom Annotation, Handler interceptor, and Filter.
 
-• Worked on group chat application, merge nine member profile image one images, the first 9 members of the group/room. 
+• Worked on a group chat application, merging nine-member profile images one image, and the first 9 members of the group. 
 
-• Logging Request and Response Body In Spring Boot and store it in the database. Whenever we need logging feature, we just add the custom annotation on the end-point and we store the data of logging in database.
+• Logging Request and Response Body In Spring Boot and storing it in the database. Whenever we need a logging feature, we just add the custom annotation on the end-point and we store the data of logging in the database.
 
 • Using ZenTao Project Management System.
 
 
-### **Software Developer (Oct-2021 - Oct-2022)**
+### **Java Developer (Oct-2021 - Oct-2022)**
 ### siParadigm Diagnostic Informatics PVT, LTD 
-Pine Brook, New Jersey, USA
+Islamabad, Pakistan and Dubai, UAE
 <br>
 Worked on Healthcare Software as a Backend Java Developer. 
+
+• KT - Knowledge Transfer/Transition and Handover. Knowledge about the projects, code flow, work involved, etc is transferred from me to the recently joined person until he becomes comfortable handling the project by himself. 
 
 • Worked on Java and J2EE.
 
@@ -72,10 +74,9 @@ Worked on Healthcare Software as a Backend Java Developer.
 • 1+ years of experience in Web development using Core- Java, JavaEE, Spring Framework, JSP, JSF, Servlet, Spring, Spring-MVC, Spring Security, JDBC, Hibernate, Microservices, Spring Boot, and Spring JPA Jasper Reports.
 
 • Has a strong ability to learn new technologies in a short span and implement them independently.
-
 ### **Support Engineer | DevOps (Jul-2020 - Oct-2021)**
 ### siParadigm Diagnostic Informatics PVT, LTD 
-Pine Brook, New Jersey, USA
+Islamabad, Pakistan
 <br>
 Worked on Healthcare Software as a Support Engineer/DevOps.
 
@@ -91,19 +92,16 @@ Worked on Healthcare Software as a Support Engineer/DevOps.
 
 • Responding in a timely manner to service issues and requests while working on IT Support Position.
 
-<!--
-### **Graduation Project (Sep-2020 - Sep-2021)**
-### University of Engineering and Technology, Peshawar
+### **Junior Java Developer (Sep-2019 - Jul-2020)**
+### Satsuma Droid Pvt Ltd
 Worked on HRMS as Full Stack.
 
-• A Human Resource Management Solution developed in Microservices Architecture.
+• Worked with Java and Spring Boot as the backend to build a website.
 
-• Worked with Java and Spring Boot as the backend to build a website using React Javascript library as the frontend.
+• Technologies : Java, Spring, Spring Boot, Spring Security, Spring Cloud API Gateway, Netflix Eureka, Netflix Hystrix, Spring JPA, and MySQL Database.
 
-• Technologies : Frontend React JavaScript library, Java, Spring, Spring Boot, Spring Security, Spring Cloud Gateway, Spring Netflix Eureka, Netflix Hystrix, Spring JPA, and MySQL Database.
--->
-### **Android Developer (Jul-2019 - Sep-2019)**
-### Satsuma Droid PVT, LTD
+### **Android Java Developer (Jul-2019 - Sep-2019)**
+### Satsuma Droid Pvt Ltd
 Gulistan Colony Rawalpindi Pakistan
 <br>
 Worked on Islamic Book Android App as Java Android Developer.
