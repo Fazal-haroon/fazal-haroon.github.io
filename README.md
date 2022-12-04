@@ -61,7 +61,7 @@ Islamabad, Pakistan and Dubai, UAE
 <br>
 Worked on Healthcare Software as a Backend Java Developer. 
 
-• KT - Knowledge Transfer/Transition and Handover. Knowledge about the projects, code flow, work involved, etc is transferred from me to the recently joined person until he becomes comfortable handling the project by himself. 
+• KT - Knowledge Transfer/Transition and Handover. Official KT phase through documents. From Jul-2022 to Oct-2022 Online.
 
 • Worked on Java and J2EE.
 
@@ -94,15 +94,15 @@ Worked on Healthcare Software as a Support Engineer/DevOps.
 
 ### **Junior Java Developer (Sep-2019 - Jul-2020)**
 ### Satsuma Droid
-Worked on HRMS as Full Stack.
-
-• Worked with Java and Spring Boot as the backend to build a website.
+Islamabad, Pakistan
+<br>
+Worked with Java and Spring Boot as the backend to build a website.
 
 • Technologies : Java, Spring, Spring Boot, Spring Security, Spring Cloud API Gateway, Netflix Eureka, Netflix Hystrix, Spring JPA, and MySQL Database.
 
 ### **Android Java Developer (Jul-2019 - Sep-2019)**
 ### Satsuma Droid
-Gulistan Colony Rawalpindi Pakistan
+Islamabad, Pakistan
 <br>
 Worked on Islamic Book Android App as Java Android Developer.
 
