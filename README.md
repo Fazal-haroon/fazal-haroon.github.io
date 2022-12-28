@@ -55,13 +55,13 @@ Worked on Chat Application as Backend Java Developer.
 • Using ZenTao Project Management System.
 
 
-### **Java Developer (Oct-2021 - Oct-2022)**
+### **Java Developer (Oct-2021 - Sep-2022)**
 ### siParadigm Diagnostic Informatics
 Islamabad, Pakistan and Dubai, UAE
 <br>
 Worked on Healthcare Software as a Backend Java Developer. 
 
-• KT - Knowledge Transfer/Transition and Handover. Official KT phase through documents. From Jul-2022 to Oct-2022 Online.
+• KT - Knowledge Transfer/Transition and Handover. Official KT phase through documents. From Jul-2022 to Sep-2022 Online.
 
 • Worked on Java and J2EE.
 
