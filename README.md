@@ -38,21 +38,43 @@ I am interested in IT and everything in its orbit with plus 3 years of field exp
 
 ## Experience
 
-### **Java Developer (July-2022 - Dec-2022)**
+### **Java Developer (July-2022 - Present)**
 ### Million Soft Technology
 Dubai, United Arab Emirates
 <br>
-Worked on Chat Application as Backend Java Developer.
+Worked on Chat Application and Payment Gateway as Backend Java Developer.
 
-• Chat Application Project developed in Microservices Architecture.
+• Chat Application developed in Microservices Architecture
 
-• Worked on Java 1.8, Spring Boot, MyBatis, MongoDB, Redis, Swagger, @ Custom Annotation, Handler interceptor, and Filter.
+• Payment Gateway system developed in Monolithic Architecture
 
-• Worked on a group chat application, merging nine-member profile images one image, and the first 9 members of the group. 
+• Documents the following
 
-• Logging Request and Response Body In Spring Boot and storing it in the database. Whenever we need a logging feature, we just add the custom annotation on the end-point and we store the data of logging in the database.
+1: Preparing API Technical Design document - Before development a document for clearing all things technically. 
 
-• Using ZenTao Project Management System.
+2: Preparing Technical Flow document - Understanding how our system will work diagrammatically. 
+
+3: Preparing Traceability Matrix Document - API Integration for integration team understanding.
+
+4: Preparing Technical Design document - After UI Development user guide document.
+
+• Development the following
+
+1: Analyzing, and gathering the business requirements from the different stockholders and writing the system specification document with the UI/UX elements.
+
+2: Design the expected solution and how to plug it with the current running system including the required DB and code changes.
+
+3: Responsible for the full-stack development(Angular and Spring boot), maintenance, and support of the running applications.
+
+4: Optimize the Java code across all modules and monitor the application performance and debug error logs.
+
+5: Ensure the code quality and code standards are being followed.
+
+6: Ensure timely delivery of the tasks assigned to the resources.
+
+7: Production deployments and post-production support.
+
+• Technologies : Java 1.8 · IntelliJ IDEA · Web Services · Web Development · Spring Framework · Hibernate · MyBatis · Swagger API · Lombok · Spring · Spring Boot · Maven · TypeScript · JavaScript · Angular · Oracle · MySQL · GitHub · Jira · Zentao Project Management System
 
 
 ### **Java Developer (Oct-2021 - Sep-2022)**
@@ -63,6 +85,10 @@ Worked on Healthcare Software as a Backend Java Developer.
 
 • KT - Knowledge Transfer/Transition and Handover. Official KT phase through documents. From Jul-2022 to Sep-2022 Online.
 
+• Knowledge about the projects, code flow, work involved, etc is transferred from me to the recently joined person until he becomes comfortable handling the project by himself. 
+
+• Official KT phase through documents.
+
 • Worked on Java and J2EE.
 
 • Hands-on experience on Tomcat and WildFly JBoss Servers.
@@ -71,9 +97,12 @@ Worked on Healthcare Software as a Backend Java Developer.
 
 • Knowledge of creating restful Web Services.
 
-• 1+ years of experience in Web development using Core- Java, JavaEE, Spring Framework, JSP, JSF, Servlet, Spring, Spring-MVC, Spring Security, JDBC, Hibernate, Microservices, Spring Boot, and Spring JPA Jasper Reports.
+• 1+ years of experience in Web development using Core-Java · JavaEE · Spring Framework · JSP · JSF · Servlet · Spring · Spring-MVC · Spring Security · JDBC · Hibernate · Microservices · Spring Boot · Spring JPA Jasper Reports.
 
 • Has a strong ability to learn new technologies in a short span and implement them independently.
+
+• Technologies : Java 1.8 · EJB · JSF · Primefaces · Hibernate · Spring Boot · MariaDB
+
 ### **Support Engineer | DevOps (Jul-2020 - Oct-2021)**
 ### siParadigm Diagnostic Informatics
 Islamabad, Pakistan
@@ -82,15 +111,19 @@ Worked on Healthcare Software as a Support Engineer/DevOps.
 
 • Effective documentation of issues and bugs.
 
-• Hands-on practice with Jira/Agile, AWS, Ansible, Chef, Docker, Jenkins CI/CD, and Kubernetes.
+• Hands-on practice with Jira/Agile · AWS · Ansible · Chef · Docker · Jenkins · CI/CD · Kubernetes.
 
 • Identified and fixed Production and Testing environment issues.
 
 • Data fetching from different databases on client/customer requests.
 
+• HIPAA (privacy law) - HL7 (messaging standard) with Mirth Connect (secure exchange of messages)
+
 • Server monitoring and deployment using MobaXterm (Linux Command) and Linux fundamental.
 
 • Responding in a timely manner to service issues and requests while working on IT Support Position.
+
+• Technologies : Java 1.8 · EJB · JSF · Primefaces · Hibernate · Spring Boot · MariaDB · Jira/Agile · AWS · Ansible · Chef · Docker · Jenkins CI/CD · Kubernetes · Mirth Connect
 
 ### **Junior Java Developer (Sep-2019 - Jul-2020)**
 ### Satsuma Droid
@@ -98,17 +131,17 @@ Islamabad, Pakistan
 <br>
 Worked with Java and Spring Boot as the backend to build a website.
 
-• Technologies : Java, Spring, Spring Boot, Spring Security, Spring Cloud API Gateway, Netflix Eureka, Netflix Hystrix, Spring JPA, and MySQL Database.
+• Technologies : Java · Spring · Spring Boot · Spring Security · Spring Cloud API Gateway · Netflix Eureka · Netflix Hystrix · Spring JPA · ReactJs · JavaScript · MySQL Database
 
 ### **Android Java Developer (Jul-2019 - Sep-2019)**
 ### Satsuma Droid
 Islamabad, Pakistan
 <br>
-Worked on Islamic Book Android App as Java Android Developer.
+Worked on Islamic Book Android App as Android Java Developer.
 
 • Fazail-E-Amaal Islamic Book Application.
 
-• Technologies : Java, Android Studio, Android developer tools, XML, and SQLite Database.
+• Technologies : Java · Android Studio · Android developer tools · XML · SQLite Database
 
 
 ---
@@ -121,9 +154,13 @@ CGPA 3.35/4.0
 <br>
 Worked on HRMS as Full Stack.
 
-• Technologies : Frontend React JavaScript library, Java, Spring, Spring Boot, Spring Security, Spring Cloud API Gateway, Netflix Eureka, Netflix Hystrix, Spring JPA, and MySQL Database.
+• A Human Resource Management Solution developed in Microservices Architecture.
+
+• Worked with Java and Spring Boot as the backend to build a website using React Javascript library as the frontend.
 
 • Description : Employee management system has multiple modules and it was a role-based application. Modules were HR Module, Employee Module, Finance Module, Leave Management System module and news feed module.
+
+• Technologies : Frontend React JavaScript library · Java · Spring · Spring Boot · Spring Security · Spring Cloud Gateway · Spring Netflix Eureka · Netflix Hystrix · Spring JPA · MySQL Database.
 
 ---
 
