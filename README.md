@@ -38,7 +38,7 @@ I am interested in IT and everything in its orbit with plus 3 years of field exp
 
 ## Experience
 
-### **Java Developer (July-2022 - Present)**
+### **Java Developer (July-2022 - June 2023)**
 ### Million Soft Technology
 Dubai, United Arab Emirates
 <br>
