@@ -5,8 +5,8 @@ I am interested in IT and everything in its orbit with plus 3 years of field exp
 ---
 
 ## Languages and Tools
-<img align="left" alt="mysql" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-<img align="left" alt="mysql" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+<img align="left" alt="html5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+<img align="left" alt="css3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 <img align="left" alt="java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
 <img align="left" alt="mysql" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 <img align="left" alt="spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
@@ -17,8 +17,8 @@ I am interested in IT and everything in its orbit with plus 3 years of field exp
 <img align="left" alt="spring-security" src="https://img.shields.io/badge/spring-security-%236DB33F.svg?style=for-the-badge&logo=spring-security&logoColor=white" />
 <img align="left" alt="spring-bean" src="https://img.shields.io/badge/spring-bean-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
 <img align="left" alt="hibernate" src="https://img.shields.io/badge/hibernate-%231572B6.svg?style=for-the-badge&logo=hibernate&logoColor=white" />
-<img align="left" alt="mysql" src="https://img.shields.io/badge/angular-%2320232a.svg?style=for-the-badge&logo=angular&logoColor=%2361DAFB" />
-<img alt="mysql" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img align="left" alt="angular" src="https://img.shields.io/badge/angular-%2320232a.svg?style=for-the-badge&logo=angular&logoColor=%2361DAFB" />
+<img alt="react" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 
 ---
 
