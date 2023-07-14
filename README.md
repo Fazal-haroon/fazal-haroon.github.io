@@ -47,8 +47,8 @@ I am interested in IT and everything in its orbit with plus 3 years of field exp
   <code><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/postgresql.svg" title="Postgresql" alt="Postgresql" width="40" height="40"/></code>
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="graphql" alt="graphql" width="40" height="40"/></code>
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25"/></code>
-  <code><img height="25" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-  <code><img height="25" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+  <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="25" alt="javascript"></code>
+  <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="25" alt="typescript"></code>
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="auto" height="25"/></code>
   <code><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="angular" width="auto" height="25"/></code>
   <code><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/vscode.svg" title="vscode" alt="vscode" width="40" height="40"/></code> 
